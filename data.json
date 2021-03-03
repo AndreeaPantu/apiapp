@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "phoneNumber": "0753425612"
+    },
+    {
+      "firstName": "Andreea",
+      "lastName": "Pantu",
+      "phoneNumber": "0753425612"
+    },
+    {
+      "firstName": "Andrei",
+      "lastName": "Oprin",
+      "phoneNumber": "0753425612"
+    },
+    {
+      "firstName": "Alexandra",
+      "lastName": "Pantu",
+      "phoneNumber": "0753425612"
+    },
+    {
+      "id": "1",
+      "firstName": "Andreea",
+      "lastName": "Panţu",
+      "phoneNumber": "0721714413"
+    },
+    {
+      "id": "10250e5c-f868-450b-8126-82b272744b97",
+      "firstName": "Sadsadasd",
+      "lastName": "Dvxcvcxv",
+      "phoneNumber": "2131212334"
+    }
+  ]
+}

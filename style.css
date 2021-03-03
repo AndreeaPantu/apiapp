@@ -1,0 +1,9 @@
+.form-control {
+  width: 50%;
+  margin: auto;
+}
+
+.table-light, .alert {
+  width: 50%;
+  margin: auto;
+}
